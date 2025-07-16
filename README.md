@@ -1,4 +1,42 @@
-# ZEESEN
+# 👋 안녕하세요, ZEESEN-KANG입니다!
+
+
+## 🛠️ About Me
+- **역할(Role)**: 개발자 / Software Developer  
+- **주요 분야**: Python, Android JAVA, C#, C++, Qt, 위성 데이터 처리, 시스템 자동화  
+- **관심사**: 혁신적인 소프트웨어 아키텍처, 데이터 엔지니어링, 자동화 및 최적화
+
+- ---
+
+## 🚀 Tech Stack
+| 언어      | 주요 경험         | 도구/프레임워크           |
+|-----------|------------------|---------------------------|
+| Python    | 데이터 처리, 백엔드, 크롤링 | PySide2, FastAPI   |
+| C++       | 위성 데이터 수신/처리 | Qt, OpenMP, MPI           |
+| SQL       | DB 설계/운영     | PostgreSQL, MariaDB, MSSQL|
+| Shell     | 자동화, 시스템 운영 | Bash, PowerShell          |
+
+---
+
+## 📂 Projects
+**TBD**
+
+---
+
+## 📈 GitHub Stats
+![ZEESEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEESEN-KANG&show_icons=true&theme=tokyonight)
+
+---
+
+## 💬 Contact
+- Email: **zeesen@example.com**
+- Blog: [https://zeesen.dev](https://zeesen.dev)
+- LinkedIn: [linkedin.com/in/zeesen](https://linkedin.com/in/zeesen)
+
+<!-- 방문자 뱃지, 활동 통계 등 추가 가능 -->
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZEESEN-KANG)](https://hits.seeyoufarm.com)
+-->
 
 ## _Language used_
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
