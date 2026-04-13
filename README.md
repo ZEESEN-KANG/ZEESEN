@@ -29,8 +29,8 @@
 ---
 
 ## 💬 Contact
-- Email: **zeesen@example.com**
-- Blog: [https://zeesen.dev](https://zeesen.dev)
+- Email: **hanwol352@gmail.com**
+- Blog: [N/A](https://zeesen.dev)
 - LinkedIn: [linkedin.com/in/zeesen](https://linkedin.com/in/zeesen)
 
 <!-- 방문자 뱃지, 활동 통계 등 추가 가능 -->
